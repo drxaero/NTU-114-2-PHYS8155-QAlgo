@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ms-toolsai.jupyter",           // Jupyter Notebook 核心支援
+    "ms-toolsai.jupyter-keymap",    // Jupyter 快捷鍵
+    "ms-python.python",             // Python 語言支援
+    "charliermarsh.ruff"            // Linting（可選）
+  ]
+}
