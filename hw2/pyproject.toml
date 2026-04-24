@@ -1,0 +1,20 @@
+[project]
+name = "hw2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplot>=0.1.9",
+    "nbformat>=5.10.4",
+    "numpy>=2.4.4",
+    "pennylane>=0.44.1",
+    "pennylane-lightning>=0.44.0",
+    "pennylane-lightning-gpu>=0.44.0",
+    "plotly>=6.6.0",
+    "torch>=2.11.0",
+]
+
+[dependency-groups]
+dev = []
